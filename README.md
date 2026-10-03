@@ -40,7 +40,7 @@ MOVA is a free, modern mobility and recovery web application designed to help pe
 | Routine | Generate and review a personalized routine |
 | Workout | Follow a guided timed session |
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the repository
 
