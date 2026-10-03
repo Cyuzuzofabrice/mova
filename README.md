@@ -3,25 +3,22 @@
 > Move better. Feel better.
 
 MOVA is a free, modern mobility and recovery web application designed to help people build simple movement routines around how they feel and the time they have.
+ Features
 
-The platform provides guided mobility, recovery, flexibility, and performance routines without requiring an account, subscription, or payment.
+-  Mobility and recovery routines
+-  Goal-based routine discovery
+-  10, 20, and 30-minute sessions
+-  Search and filter routines
+-  Personalized routine generation
+-  Performance and training preparation
+- Local progress tracking
+-  Interactive mobility self-assessment
+-  Guided workout timer
+-  Responsive design for desktop, tablet, and mobile
+-  Progress stored locally on the user's device
+- No login or subscription required
 
-## ✨ Features
-
-- 🧘 Mobility and recovery routines
-- 🎯 Goal-based routine discovery
-- ⏱️ 10, 20, and 30-minute sessions
-- 🔎 Search and filter routines
-- 🧠 Personalized routine generation
-- 🏃 Performance and training preparation
-- 📊 Local progress tracking
-- 🧪 Interactive mobility self-assessment
-- ▶️ Guided workout timer
-- 📱 Responsive design for desktop, tablet, and mobile
-- 💾 Progress stored locally on the user's device
-- 🚫 No login or subscription required
-
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - React
 - TypeScript
@@ -32,7 +29,7 @@ The platform provides guided mobility, recovery, flexibility, and performance ro
 - Lucide React
 - LocalStorage
 
-## 🧩 Main Pages
+##  Main Pages
 
 | Page | Description |
 | --- | --- |
