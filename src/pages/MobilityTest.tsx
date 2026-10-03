@@ -1,7 +1,6 @@
 import {
   ArrowLeft,
   ArrowRight,
-  Check,
   RotateCcw,
   Sparkles,
 } from "lucide-react";

@@ -3,6 +3,7 @@ import {
   Menu,
   Move3D,
   X,
+  ArrowRight,
 } from "lucide-react";
 import {
   Link,
